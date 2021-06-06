@@ -1,4 +1,6 @@
 # WebCourse
+
+
 ## 成员信息（按学号由小到大）
 
 姓名、学号：
@@ -25,7 +27,47 @@
 
 ## 项目简介
 
-西电在线考试系统是一款 java + vue 的前后端分离的考试系统。主要优点是开发、部署简单快捷、界面设计友好、代码结构清晰。支持web端和微信小程序，能覆盖到pc机和手机等设备。 支持多种部署方式：集成部署、前后端分离部署、docker部署。
+西电在线考试系统是一款 java + vue 的前后端分离的考试系统。主要优点是开发、部署简单快捷、界面设计友好、代码结构清晰。
+
+### 系统展示
+
+* 学生考试系统
+
+<table>
+    <tr>
+        <td><img src="doc/image/student/2.png"/></td>
+        <td><img src="doc/image/student/12.png"/></td>
+    </tr>
+</table>
+
+
+*  小程序考试系统
+
+<table>
+    <tr>
+        <td><img src="doc/image/wx/student/1.png"/></td>
+        <td><img src="doc/image/wx/student/2.png"/></td>
+        <td><img src="doc/image/wx/student/3.png"/></td>
+        <td><img src="doc/image/wx/student/4.png"/></td>
+    </tr>
+    <tr>
+        <td><img src="doc/image/wx/student/5.png"/></td>
+        <td><img src="doc/image/wx/student/8.png"/></td>
+        <td><img src="doc/image/wx/student/6.png"/></td>
+        <td><img src="doc/image/wx/student/7.png"/></td>
+    </tr>
+</table>
+
+
+* 后台管理系统
+
+<table>
+    <tr>
+        <td><img src="doc/image/admin/12.png"/></td>
+        <td><img src="doc/image/admin/13.png"/></td>
+    </tr>
+</table># uexam
+
 
 ## 项目背景
 随着2020年新冠疫情的到来，许多人被迫居家隔离。许多原来必须线下完成的活动也被迫转移到了线上。特别是考试，常常许多人聚集再同一考室内，极易发生聚集性传入。因此开发一款线上考试系统显得尤为急迫。我们团队便基于此开发了一款西电在线考试系统来帮助居家隔离的同学完成考试。
